@@ -1,3 +1,9 @@
+pop-launcher (1.2.2ubuntu1) noble; urgency=medium
+
+  * Update to noble
+
+ -- Aaron Honeycutt <aaron@system76.com>  Fri, 29 Mar 2024 10:49:00 -0600
+
 pop-launcher (1.2.2) jammy; urgency=medium
 
   * Various bug fixes and improvements
